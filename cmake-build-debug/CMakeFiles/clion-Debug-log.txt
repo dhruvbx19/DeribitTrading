@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/dhruvbalchandani/CLionProjects/DeribitTrading -B /Users/dhruvbalchandani/CLionProjects/DeribitTrading/cmake-build-debug
+-- CURL libraries: /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/usr/lib/libcurl.tbd
+-- Boost libraries: Boost::system;Boost::thread
+-- OpenSSL libraries: /opt/homebrew/lib/libssl.dylib;/opt/homebrew/lib/libcrypto.dylib
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/dhruvbalchandani/CLionProjects/DeribitTrading/cmake-build-debug
